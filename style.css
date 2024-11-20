@@ -1,0 +1,165 @@
+nav{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #F4E9CD;
+}
+
+#inicial{
+    width: 250px;
+    height: 150px;
+    border-radius: 5%;
+}
+
+#git{
+    background-color: white;
+    display: inline-block;
+    border-radius: 25%;
+}
+
+#git:hover{
+    border-radius: 20px;
+    transition: 250ms;
+    transform: scale(1.1);
+}
+
+#git-image{
+    width: 200px;
+    height: 150px;
+    border-radius: 1%;
+}
+
+#git-image:hover{
+    border-radius: 20px;
+    transition: 250ms;
+    transform: scale(1.1);
+}
+
+#linkelin{
+    background-color: white;
+    display: inline-block;
+    border-radius: 25%;
+}
+
+#linkelin-image{
+    width: 150px;
+    height: 150px;
+    border-radius: 1%;
+}
+
+#linkelin-image:hover{
+    border-radius: 20px;
+    transition: 250ms;
+    transform: scale(1.1);
+}
+
+#instagram{
+    background-color: white;
+    display: inline-block;
+    border-radius: 25%;
+}
+
+#instagram-image{
+    width: 210px;
+    height: 150px;
+    border-radius: 1%;
+}
+
+#instagram-image:hover{
+    border-radius: 20px;
+    transform: scale(1.1);
+    transition: 250ms;
+}
+/*ME GUSTA COMO SE VE SIN ESTO
+#instagram:hover{
+    border-radius: 20px;
+    transform: scale(1.1);
+    transition: 250ms;
+}*/
+
+.mini-presentación{
+    text-align: center;
+    width: 50%;
+}
+
+#mifoto{
+    border-radius: 100%;
+    height: 25%;
+    width: 25%;
+}
+
+
+.container1{
+    background-color: #468189;
+    display: inline-block;
+}
+#foto1{
+    width: 320px;
+    height: 300px;
+}
+#foto1:hover{
+    border-radius: 20px;
+    transform: scale(1.1);
+    transition: 250ms;
+}
+
+
+.container2{
+    background-color: #468189;
+    display: inline-block;
+}
+#foto2{
+    width: 300px;
+    height: 300px;
+}
+#foto2:hover{
+    border-radius: 20px;
+    transform: scale(1.1);
+    transition: 250ms;
+}
+
+
+.container3{
+    background-color: #468189;
+    display: inline-block;
+}
+#foto3{
+    width: 300px;
+    height: 300px;
+}
+#foto3:hover{
+    border-radius: 20px;
+    transform: scale(1.1);
+    transition: 250ms;
+}
+
+.container4{
+    background-color: #468189;
+    display: inline-block;
+}
+#foto4{
+    width: 300px;
+    height: 300px;
+}
+#foto4:hover{
+    border-radius: 20px;
+    transform: scale(1.1);
+    transition: 250ms;
+}
+
+
+
+.container5{
+    background-color: #468189;
+    display: inline-block;
+}
+#foto5{
+    width: 300px;
+    height: 300px;
+}
+#foto5:hover{
+    border-radius: 20px;
+    transform: scale(1.1);
+    transition: 250ms;
+}

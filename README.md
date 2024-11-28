@@ -9,7 +9,7 @@
 *[Estado del proyecto](#Estado-del-proyecto)
 
 ## Descripción del proyecto
-Entregable de la continuación del anterior proyecto, en donde se podía ve rla estructura semántica del html, solo que aquí empezaremos a meter html
+Entregable de la continuación del anterior proyecto, en donde se podía ver la estructura semántica del html, se metií el css y también acomodamos la especificidad de la mejor forma posible, aunque falta mejorarlo.
 ## Estado del proyecto 
 En proceso...
 ## ¿Qué contiene?
